@@ -1,0 +1,11 @@
+body {
+      text-align: center;
+      background: url("https://i.imgur.com/6EqMkAE.jpg");
+      background-size: cover;
+      background-position: center;
+      color: dimgray;
+      font-family: trebuchet ms;
+    }
+  p {
+    font-size: 18px;
+  }
